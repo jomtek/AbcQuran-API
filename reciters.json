@@ -182,7 +182,7 @@
 		"id": "shatri",
 		"photo": "https://i.imgur.com/68KsvgC.png",
 		"audio_source": "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree",
-		"stable": true,
+		"stable": false,
 		"missing_basmala": [],
 		"unwanted_basmala": []
 	},
